@@ -1,34 +1,25 @@
-- 👋 Hi, I’m @FlareGnz
-- 👀 I’m interested in everything involving DATA
-- 🌱 I’m currently learning Python programming, DataVis
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:
--   Mailto:fabio_g_da_silva@hotmail.com
-
-<!---
-FlareGnz/FlareGnz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <img alt="#" src="https://github.com/FlareGnz/FlareGnz/blob/main/baner%202.png?raw=true">
 
+# INTRO
+
+- 👋 Hi, I’m @FlareGnz
+- 👀 I’m interested in everything involving DATA
+- 📫 How to reach me: [`EMAIL`](Mailto:fabio_g_da_silva@hotmail.com)
 
 # About Me 
 
-4 lines
-
-3 lines
+Data Expert and data enthusiast with focus on transforming raw data into Business Insights and actions to make our world a better place.
 
 # My Projects
 
-## project 1
+## Professional Project - Marketing Budget distribution
 
-a
- 
-* a
-* a
-* a
+> Stakeholder: Board Director/Insight Manager
 
-## Project 2
+> Tools Used: Excel | Kantar | Euromonitor
 
-[`exampleName`](https://example.url/)
+## Personal Project - Personal Budgeting
 
+> Stakeholder: Me
+
+> Tools Used: Excel
