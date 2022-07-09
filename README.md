@@ -9,3 +9,26 @@
 FlareGnz/FlareGnz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<img width="368" alt="#" src="#">
+
+
+# About Me 
+
+4 lines
+
+3 lines
+
+# My Projects
+
+## project 1
+
+a
+ 
+* a
+* a
+* a
+
+## Project 2
+
+[`exampleName`](https://example.url/)
+
