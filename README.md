@@ -1,4 +1,4 @@
-<img alt="#" src="https://github.com/FlareGnz/FlareGnz/blob/main/baner%202.png?raw=true">
+<img alt="#" src="https://github.com/FlareGnz/FlareGnz/blob/main/banner-image.png?raw=true">
 
 # INTRO
 
