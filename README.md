@@ -1,4 +1,4 @@
-<img alt="FlareGnz GitHub Banner" src="https://github.com/FlareGnz/FlareGnz/blob/main/banner-image.png?raw=true">
+<img alt="FlareGnz GitHub Banner" src="https://github.com/FlareGnz/FlareGnz/blob/main/img/banner-image.png?raw=true">
 
 # FlareGnz - Data Expert & Enthusiast
 
@@ -67,9 +67,9 @@ Libraries:
 4. Data-driven decision making in healthcare
 
 ## Connect with FlareGnz
-- 📧 Email: fabio_g_da_silva@hotmail.com
+- 📧 Email: [Email Link](mailto:fabio_g_da_silva@hotmail.com)
 - 💼 LinkedIn: [FlareGnz LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- 📱 Phone/WhatsApp: +XX XXX XXX XXXX
+- 📱 Phone/WhatsApp: +55 71 9932 7824 or [Whatsapp](https://wa.me/+5571996327824)
 - 🌐 Personal Website: [https://www.flaregnz-data.com](https://www.flaregnz-data.com)
 
 ---
