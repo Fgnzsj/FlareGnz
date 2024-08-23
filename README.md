@@ -55,11 +55,6 @@ Libraries:
 - **Features:** Expense tracking, budget forecasting, investment analysis
 - **Impact:** Improved personal savings rate by 30%
 
-## Education & Certifications
-- MSc in Data Science, University XYZ (Year)
-- Certified Data Analyst (CDA), Association ABC (Year)
-- Machine Learning Specialization, Coursera (Year)
-
 ## Professional Interests
 1. Ethical AI and data governance
 2. Sustainable analytics for environmental impact
