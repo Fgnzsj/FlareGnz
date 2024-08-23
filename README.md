@@ -1,25 +1,87 @@
-<img alt="#" src="https://github.com/FlareGnz/FlareGnz/blob/main/banner-image.png?raw=true">
+<img alt="FlareGnz GitHub Banner" src="https://github.com/FlareGnz/FlareGnz/blob/main/banner-image.png?raw=true">
 
-# INTRO
+# FlareGnz - Data Expert & Enthusiast
 
-- 👋 Hi, I’m @FlareGnz
-- 👀 I’m interested in everything involving DATA
-- 📫 How to reach me: [`EMAIL`](Mailto:fabio_g_da_silva@hotmail.com)
+## Profile Summary
+- **Name:** FlareGnz
+- **Profession:** Data Expert
+- **Focus:** Business Insights, Data Analytics, Machine Learning
+- **Mission:** Leveraging data to drive positive global change
 
-# About Me 
+## Skills & Expertise
+- Data Analytics
+- Data Visualization
+- Business Intelligence
+- Machine Learning
+- Predictive Modeling
+- Statistical Analysis
+- Big Data Processing
 
-Data Expert and data enthusiast with focus on transforming raw data into Business Insights and actions to make our world a better place.
+## Technical Proficiencies
+```yaml
+Languages:
+  - Python
+  - R
+  - SQL
+Tools:
+  - Excel
+  - PowerBi
+  - Tableau
+  - Kantar
+  - Euromonitor
+  - Git
+Databases:
+  - MySQL
+  - SQLite
+Libraries:
+  - Pandas
+  - NumPy
+  - Scikit-learn
+  - TensorFlow
+  - FastAPI
+```
 
-# My Projects
+## Projects
 
-## Professional Project - Marketing Budget distribution
+### Professional: Marketing Budget Optimization
+- **Type:** Data-driven marketing strategy
+- **Role:** Lead Data Analyst
+- **Tools:** Excel, Kantar, Euromonitor
+- **Outcome:** Increased ROI by 7,57% through optimized category allocation
 
-> Stakeholder: Board Director/Insight Manager
+### Personal: Financial Analytics Dashboard
+- **Type:** Personal finance management
+- **Stack:** Python, SQLite, Dash
+- **Features:** Expense tracking, budget forecasting, investment analysis
+- **Impact:** Improved personal savings rate by 30%
 
-> Tools Used: Excel | Kantar | Euromonitor
+## Education & Certifications
+- MSc in Data Science, University XYZ (Year)
+- Certified Data Analyst (CDA), Association ABC (Year)
+- Machine Learning Specialization, Coursera (Year)
 
-## Personal Project - Personal Budgeting
+## Professional Interests
+1. Ethical AI and data governance
+2. Sustainable analytics for environmental impact
+3. Predictive modeling for business strategy
+4. Data-driven decision making in healthcare
 
-> Stakeholder: Me
+## Connect with FlareGnz
+- 📧 Email: fabio_g_da_silva@hotmail.com
+- 💼 LinkedIn: [FlareGnz LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- 📱 Phone/WhatsApp: +XX XXX XXX XXXX
+- 🌐 Personal Website: [https://www.flaregnz-data.com](https://www.flaregnz-data.com)
 
-> Tools Used: Excel
+---
+
+```json
+{
+  "githubUsername": "FlareGnz",
+  "fullName": "Fabio G. da Silva",
+  "location": "City, Country",
+  "languages": ["en", "pt"],
+  "interests": ["data science", "machine learning", "business intelligence"],
+  "openToCollaborate": true,
+  "hireable": true
+}
+```
