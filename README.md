@@ -1,4 +1,4 @@
-<img alt="FlareGnz GitHub Banner" src="https://github.com/FlareGnz/FlareGnz/blob/main/img/banner-image.png?raw=true">
+<img alt="FlareGnz GitHub Banner" src="img/banner-image.png">
 
 # FlareGnz - Data Expert & Enthusiast
 
@@ -64,7 +64,7 @@ Libraries:
 ## Connect with FlareGnz
 - 📧 Email: [Email Link](mailto:fabio_g_da_silva@hotmail.com)
 - 💼 LinkedIn: [FlareGnz LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- 📱 Phone/WhatsApp: +55 71 9932 7824 or [Whatsapp](https://wa.me/+5571996327824)
+- 📱 Phone/WhatsApp: +XX XXX XXX XXXX
 - 🌐 Personal Website: [https://www.flaregnz-data.com](https://www.flaregnz-data.com)
 
 ---
